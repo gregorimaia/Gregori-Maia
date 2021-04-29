@@ -1,6 +1,6 @@
 # Gregori Maia
 Minhas redes sociais e contatos.
-- ![fb](https://user-images.githubusercontent.com/81052885/116562782-d7fd3f80-a8d9-11eb-88af-2319d0263ed7.png)
+- ![face](https://user-images.githubusercontent.com/81052885/116564179-1e06d300-a8db-11eb-9f7b-55eb549c1857.png)
  [Facebook](https://www.facebook.com/gregori.maia/)
 - ![ins](https://user-images.githubusercontent.com/81052885/116562990-08dd7480-a8da-11eb-90a3-dd7d39e0b74d.png)
  [Instagram](https://www.instagram.com/gregori.maia/)
